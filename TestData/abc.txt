@@ -1,0 +1,4 @@
+this is java program
+we are going to read the data from the file
+lets also learn to write the data into file
+name=java
