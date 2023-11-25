@@ -46,7 +46,7 @@ public class InitiateBrowser
 	@AfterMethod
 	public void closeBrowser()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 	
 }
